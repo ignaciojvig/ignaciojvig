@@ -21,8 +21,8 @@ Also learning more about Server Side Rendering for Frontend Applications.
 Feel free to contact me! I love to discuss tech and meet new people. 
 
 You can reach me in any of these channels:
-- 🐦[@Lost_In_Ignacio](https://twitter.com/Lost_In_Ignacio)
-- 🏢[LinkedIn](https://www.linkedin.com/in/ignaciojv/)
+- 🐦 [@Lost_In_Ignacio](https://twitter.com/Lost_In_Ignacio)
+- 🏢 [LinkedIn](https://www.linkedin.com/in/ignaciojv/)
 - Or send me an e-mail (I swear i read my e-mails) [ignaciojvig@gmail.com](mailto:ignaciojvig@gmail.com)
 
 ## ⚡ Fun fact
