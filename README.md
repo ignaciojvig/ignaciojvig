@@ -12,20 +12,12 @@
 ## Hi there 👋
 
 My name is João Victor Ignacio. I'm a Fullstack Software Engineer at [Venturus](https://www.venturus.org.br/).
-I'm usually working on Frontend Applications with Angular or React and on the Backend Applications with ASP.Net Core, NestJs or other Node APIs using Express.  
+I'm usually working on Frontend Applications with Angular or React and on the Backend Applications with ASP.Net Core, NestJs or other Node APIs using Express.
 
 **😄 Pronouns:** He/Him
 
 ## 🔭 I’m currently working on
-A series of articles about technologies that i'm in contact with, aiming to contribute with our community.
-
-I'll make sure to add a link to these articles right here whenever ready :eyes: 
-
-
-## 🌱 I’m currently learning
-About Software Architecture and Design Patterns. 
-
-Also learning more about Server Side Rendering for Frontend Applications.
+How to work with WebGL using Three.Js through [ThreeJs-Journey](https://threejs-journey.xyz/) course of [Bruno Simon](https://github.com/brunosimon)
 
 
 ## 📫 How to reach me
@@ -34,6 +26,7 @@ Feel free to contact me! I love to discuss tech and meet new people.
 You can reach me in any of these channels:
 - 🐦 [@Lost_In_Ignacio](https://twitter.com/Lost_In_Ignacio)
 - 🏢 [LinkedIn](https://www.linkedin.com/in/ignaciojv/)
+- 📃 [DevTo](https://dev.to/ignaciojvig)
 - Or send me an e-mail (I swear i read my e-mails) [ignaciojvig@gmail.com](mailto:ignaciojvig@gmail.com)
 
 ## ⚡ Fun fact
