@@ -1,5 +1,14 @@
 ![header_readme_joao_victor_ignacio](https://github.com/ignaciojvig/ignaciojvig/blob/6bad5e421cdf71da0818290fff375aaedce63a8e/Header.png)
 
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyctoriak&hide=html&layout=compact&theme=default" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=vyctoriak&theme=default" /></td>
+    </tr>   
+  </table>
+</center>
+
 ## Hi there 👋
 
 My name is João Victor Ignacio. I'm a Fullstack Software Engineer at [Venturus](https://www.venturus.org.br/).
