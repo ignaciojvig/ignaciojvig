@@ -1,4 +1,4 @@
-![header_readme_joao_victor_ignacio](https://github.com/ignaciojvig/ignaciojvig/blob/0d1becfc31cbe389a083b777210e183c00ffa487/Header.png)
+![header_readme_joao_victor_ignacio](https://github.com/ignaciojvig/ignaciojvig/blob/6bad5e421cdf71da0818290fff375aaedce63a8e/Header.png)
 
 ## Hi there 👋
 
